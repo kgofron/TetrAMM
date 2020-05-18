@@ -1,0 +1,13 @@
+syntax: glob
+db/
+dbd/
+O.linux-x86_64/
+O.Common/
+envPaths
+bin/
+as/
+auto_settings.sav*
+.hg/
+.hgignore
+syntax: regexp
+^pmc/

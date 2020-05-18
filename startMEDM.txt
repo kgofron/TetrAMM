@@ -1,0 +1,1 @@
+/epics/extensions/bin/linux-x86_64/medm -x -macro "P=XF:10ID-BI:,R=TM176:" quadEM.adl

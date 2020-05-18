@@ -7,8 +7,8 @@
 #epicsEnvSet("TSPOINTS",  "1000")
 #epicsEnvSet("IP",        "164.54.160.241:10001")
 
-epicsEnvSet("PREFIX",    "XF10ID-BI:")
-epicsEnvSet("RECORD",    "TM176")
+epicsEnvSet("PREFIX",    "XF:10ID-BI:")
+epicsEnvSet("RECORD",    "TM176:")
 epicsEnvSet("PORT",      "TM176")
 epicsEnvSet("TEMPLATE",  "TetrAMM")
 #epicsEnvSet("MODEL",     "TetrAMM")

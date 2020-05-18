@@ -1,1 +1,1 @@
-/epics/support2/quadEM/iocBoot/iocTetrAMM/st.cmd
+/epics/support3/quadEM/iocBoot/iocTetrAMM/st.cmd
