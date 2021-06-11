@@ -15,12 +15,10 @@ epicsEnvSet("TEMPLATE",  "TetrAMM")
 epicsEnvSet("QSIZE",     "20")
 epicsEnvSet("RING_SIZE", "10000")
 epicsEnvSet("TSPOINTS",  "1000")
-# epicsEnvSet("IP",        "10.10.2.176:10001")
+# epicsEnvSet("IP",        "xf10id-tetramm1.nsls2.bnl.local:10001")
 epicsEnvSet("IP",        "10.66.74.177:10001")
 epicsEnvSet("QUAD_DET",        "TetrAMM.cmd")
 
-epicsEnvSet("EPICS_CA_AUTO_ADDR_LIST", "NO")
-epicsEnvSet("EPICS_CA_ADDR_LIST", "10.10.0.255")
 
 epicsEnvSet("EPICS_CA_MAX_ARRAY_BYTES", "1000000")
 

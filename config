@@ -1,4 +1,4 @@
 NAME=TetrAMM-176
 USER=softioc
 PORT=4309
-HOST=xf10idd-ioc1
+HOST=xf10idd-ioc3
